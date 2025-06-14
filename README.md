@@ -15,7 +15,7 @@ Je suis passionné par la recherche appliquée en statistiques, la data science 
 ### 📊 Recherches personnelles en statistiques/data
 [Voir les projets de recherche →](#projets-de-recherche)
 
-## 👨‍💻 Projets de Formation
+### 👨‍💻 Projets de Formation
 [Voir les projets de formation →](#projets-de-formation)
 ---
 
