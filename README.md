@@ -5,7 +5,7 @@ Je suis passionné par la recherche appliquée en statistiques, la data science 
 
 🎯 Double casquette :
 - 🔬 **Chercheur junior** en statistiques appliquées et la data science. Je suis en Master 1 en Statistiques et Probabilité à l'Institut des Mathématiques et de Sciences Physiques
-- 🧠 **Entrepreneur tech** avec Alltech, créateur de solutions numériques (app, web, montage vidéo, etc.)
+- 🧠 **Entrepreneur tech** avec Alltech, créateur de solutions numériques(app, web, montage vidéo, etc.), formation et accompagnement, projet communautaire
 
 ## 🗂️ Organisation de mes projets
 
