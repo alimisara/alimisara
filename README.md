@@ -22,7 +22,11 @@ Je suis passionné par la recherche appliquée en statistiques, la data science 
 ## 🔧 Technologies principales
 - Python, R, Flutter, Dart, JavaScript, Excel
 - Pandas, scikit-learn, PyTorch, ggplot2
-- Streamlit, FastAPI, Flask, Laravel
+- Streamlit, FastAPI, Flask, Laravel, Firebase
 - Git & GitHub, GitHub Actions
+
+## 📫 Me contacter
+📧 alimisaragankou@gmail.com  
+🌐 [LinkedIn](www.linkedin.com/in/alimi-sara)  
 
 ---
