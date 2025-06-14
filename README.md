@@ -10,7 +10,7 @@ Je suis passionné par la recherche appliquée en statistiques, la data science 
 ## 🗂️ Organisation de mes projets
 
 ### 🚀 Projets Alltech
-[Voir les projets professionnels →](#alltech-projets)
+[Voir les projets professionnels →](https://github.com/alimisara/alltech-projects)
 
 ### 📊 Recherches personnelles en statistiques/data
 [Voir les projets de recherche →](#projets-de-recherche)
