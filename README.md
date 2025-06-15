@@ -28,6 +28,6 @@ Je suis passionné par la recherche appliquée en statistiques, la data science 
 
 ## 📫 Me contacter
 📧 alimisaragankou@gmail.com  
-🌐 [LinkedIn](www.linkedin.com/in/alimi-sara)  
+🌐 [LinkedIn](https://www.linkedin.com/in/alimi-sara/)  
 
 ---
