@@ -16,7 +16,8 @@ Je suis passionné par la recherche appliquée en statistiques, la data science 
 [Voir les projets de recherche →](#projets-de-recherche)
 
 ### 👨‍💻 Projets de Formation
-[Voir les projets de formation →](#projets-de-formation)
+[Voir les projets de formation →](https://github.com/alimisara/formation)
+
 ---
 
 ## 🔧 Technologies principales
