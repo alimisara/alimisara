@@ -22,7 +22,7 @@ Je suis passionné par la recherche appliquée en statistiques, la data science 
 
 ## 🔧 Technologies principales
 - Python, R, Flutter, Dart, JavaScript, Excel
-- Pandas, scikit-learn, PyTorch, ggplot2
+- Pandas, scikit-learn, PyTorch, ggplot2, dplyr
 - Streamlit, FastAPI, Flask, Laravel, Firebase
 - Git & GitHub, GitHub Actions
 
