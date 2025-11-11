@@ -13,7 +13,7 @@ Je suis passionné par la recherche appliquée en statistiques, la data science 
 [Voir les projets professionnels →](https://github.com/alimisara/alltech-projects)
 
 ### 📊 Recherches personnelles en statistiques/data
-[Voir les projets de recherche →](#projets-de-recherche)
+[Voir les projets de recherche →](https://github.com/alimisara/data-science)
 
 ### 👨‍💻 Projets de Formation
 [Voir les projets de formation →](https://github.com/alimisara/formation)
